@@ -1,5 +1,5 @@
 # grammar-plus
-A node module to provide various grammer-related solutions.
+A node module to provide various grammar-related solutions.
 >var grammar = require("grammar-plus");
 
 ## checkAn(string):
