@@ -1,0 +1,47 @@
+{
+  "_from": "grammar-plus",
+  "_id": "grammar-plus@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Aa8GlBXYJYUUACN9C6a+IuohnVwNZ5c83we1hA0ddkax9C+LJRC4/Jqc534BgcNqQI3DEVVUR9SGZUeRzcpQdQ==",
+  "_location": "/grammar-plus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "grammar-plus",
+    "name": "grammar-plus",
+    "escapedName": "grammar-plus",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/grammar-plus/-/grammar-plus-1.1.1.tgz",
+  "_shasum": "1b1e37d006808c7d743c5d3334001b0564adc871",
+  "_spec": "grammar-plus",
+  "_where": "C:\\Users\\Advent_Char_Are\\Desktop\\node",
+  "author": {
+    "name": "James Johnston",
+    "email": "'jamesmarshalljohnston@gmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "solutions for common grammatical problems",
+  "keywords": [
+    "grammar"
+  ],
+  "license": "ISC",
+  "main": "grammar.js",
+  "name": "grammar-plus",
+  "repository": {
+    "type": "git",
+    "url": "grammar-plus"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
